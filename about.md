@@ -14,7 +14,7 @@ I am an avid supporter of Open Source Software (OSS) and fanboy of Python progra
 
 ** My school github account is different than my primary github account because student perks :sunglasses:
 
-* Soccer
+* Soccer Game Highlights Maker: <https://devpost.com/software/awesome-sports> - ConUHacks III 3rd Prize Winner & Astucemedia 1st Prize Winner
 * AUTO07P Automated Testing: <https://github.com/uashra/soen6971-f17>
 * LISP and Common LISP: <https://github.com/uashra/soen6441-f15>
 * Downloading All Course Material: <https://github.com/uashra/scripts>
