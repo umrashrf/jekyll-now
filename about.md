@@ -15,10 +15,10 @@ I am an avid supporter of Open Source Software (OSS) and fanboy of Python progra
 ** My school github account is different than my primary github account because student perks :sunglasses:
 
 * Soccer
-* AUTO07P Automated Testing: [](https://github.com/uashra/soen6971-f17)
-* LISP and Common LISP: [](https://github.com/uashra/soen6441-f15)
-* Downloading All Course Material: [](https://github.com/uashra/scripts)
-* Using JDeodorant to improve code quality: [](https://github.com/tsantalis/JDeodorant) 
+* AUTO07P Automated Testing: [https://github.com/uashra/soen6971-f17]
+* LISP and Common LISP: [https://github.com/uashra/soen6441-f15]
+* Downloading All Course Material: [https://github.com/uashra/scripts]
+* Using JDeodorant to improve code quality: [https://github.com/tsantalis/JDeodorant] 
 
 ### Contact me
 
