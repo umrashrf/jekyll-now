@@ -7,4 +7,4 @@ This is my first blog post of 2018. This is a classic Hello World except the tit
 
 My main goal is to document and share my work experiences with the world but I'll try to make it an interesting read by also sharing my other experiences like sports, travel, food, etc.
 
-![Happy Minions Gif](https://media.giphy.com/media/1MTLxzwvOnvmE/giphy.gif)
+![Happy Minions Gif]({{ site.baseurl }}/images/minions_giphy.webp)
