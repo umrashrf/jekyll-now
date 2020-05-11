@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Software Engineer based in Montréal, QC. I graduated from Concordia University, Montréal with my Masters in Software Engineering.
+Software Engineer based in Toronto. Graduated from Concordia University, Montreal with Masters in Software Engineering.
 
 ### More Information
 
@@ -12,7 +12,7 @@ I am an avid supporter of Open Source Software (OSS) and fanboy of Python progra
 
 ### Cool things I worked during Concordia University
 
-** My school github account is different than my primary github account because student perks :sunglasses:
+** My school github account was different than my primary github account because student perks :sunglasses:
 
 * Soccer Game Highlights Maker: <https://devpost.com/software/awesome-sports> - ConUHacks III 3rd Prize Winner & Astucemedia 1st Prize Winner
 * AUTO07P Automated Testing: <https://github.com/uashra/soen6971-f17>
